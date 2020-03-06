@@ -1,6 +1,7 @@
-def introduction 
+def introduction(name)
+  puts "Hi, my name is #{name}"
 end
- // = "Hi, my name is #{name}"
+ 
 
 # Write your code here. If you get stuck, at the very bottom of this lab we've included
 # the answers. You should ONLY check those answers if you get totally stuck. The important
